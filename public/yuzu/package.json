@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "name": "yuzu",
+  "version": "1.0.0",
+  "description": "Yuzu.js Framework - AI for All",
+  "main": "client.js",
+  "author": "AXIOM NETWORK / COMPOSITE / KIWI AI",
+  "repository": "https://github.com/infdevv/yuzu"
+}
